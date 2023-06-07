@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty">Todo masih kosong, Silahkan tambahkan yang baru.</string>
+    <string name="newtodo">New Todo</string>
+    <string name="Add">Add</string>
+    <string name="todonotes">Todo Notes</string>
+</resources>
